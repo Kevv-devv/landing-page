@@ -1,0 +1,16 @@
+body {
+    padding: 10px 160px;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.row1 {
+    display: flex;
+}
+
+ul {
+    margin-left: auto;
+}
