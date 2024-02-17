@@ -1,1 +1,1 @@
-# landing-page
+This is a prototypical web landing page that I designed based on an image provided by the landing page assignment on The Odin Project. I learned how to put to use many flexbox elements from previous assignments, including how to position elements on the page and how to style buttons, quotes, headers, and footers.
