@@ -46,6 +46,22 @@ a {
     color: #E5E7EB;
 }
 
+.block1 {
+    width: 450px;
+}
+
+.button1 {
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: #3882F6;
+    border: 1px solid #3882F6;
+    color: white;
+    margin-top: 10px;
+    width: 100px;
+    font-weight: bold;
+}
+
 .row2 {
     margin-top: 200px;
     display: flex;
@@ -57,6 +73,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-left: auto;
 }
 
 .row3 {
@@ -88,4 +105,57 @@ a {
 .text {
     width: 100px;
     height: 100px;
+}
+
+.content2 {
+    display:flex;
+    flex-direction: column;
+    padding: 100px 540px;
+    background-color: #E5E7EB
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: lighter;
+}
+
+.sig {
+    display: flex;
+    justify-content: end;
+    margin-right: 45px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.footer {
+    background-color: #3882F6;
+    margin: 70px 520px;
+    padding: 40px 100px;
+    display: flex;
+    border-radius: 8px;
+}
+
+.signup {
+    margin-left: auto;
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: #3882F6;
+    border: 1px solid white;
+    color: white;
+    margin-top: 10px;
+    width: 100px;
+    font-weight: bold;
+}
+
+.action {
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.info {
+    margin-top: 5px;
+    color: #F9FAF8;
 }
